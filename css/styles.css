@@ -24,11 +24,11 @@
 body {
   color: #2e363e;
   font-family: "Noto Sans KR", sans-serif;
+  padding-bottom: 50px;
 }
 
 .main-screen {
   padding: 0px var(--horizontal-space);
-  margin-bottom: 30px;
 }
 
 .screen-header__icons i,

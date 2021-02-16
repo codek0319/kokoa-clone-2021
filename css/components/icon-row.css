@@ -17,4 +17,5 @@
 
 .icon-row__icon span {
   margin-top: 10px;
+  color: var(--font-color);
 }

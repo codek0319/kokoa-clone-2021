@@ -8,11 +8,23 @@
 }
 
 .settings__setting i {
-  margin-right: 20px;
   font-size: 25px;
   color: rgba(0, 0, 0, 0.7);
+  padding-right: 10px;
+}
+
+.settings__setting-column {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .settings__setting-column:last-child {
   color: var(--font-color);
+}
+
+.settings__setting-column__icon {
+}
+
+.settings__setting-column__text {
 }
