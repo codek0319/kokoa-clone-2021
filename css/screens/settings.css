@@ -11,11 +11,15 @@
   font-size: 25px;
   color: rgba(0, 0, 0, 0.7);
   padding-right: 10px;
+  height: 20px;
+  width: 20px;
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
 }
 
 .settings__setting-column {
   display: flex;
-  justify-content: space-between;
   align-items: center;
 }
 
@@ -23,8 +27,22 @@
   color: var(--font-color);
 }
 
-.settings__setting-column__icon {
+.settings__setting:nth-child(3),
+.settings__setting:nth-child(13) {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.7);
+  padding-bottom: 30px;
 }
 
-.settings__setting-column__text {
+.settings__setting:nth-child(4),
+.settings__setting:last-child {
+  padding-top: 30px;
+}
+
+.settings__reddot {
+  padding: 3px;
+  border-radius: 50%;
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  margin-left: 5px;
 }

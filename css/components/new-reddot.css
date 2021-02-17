@@ -1,0 +1,17 @@
+.new-reddot {
+  width: 5px;
+  height: 5px;
+  background-color: tomato;
+  position: absolute;
+  right: -5px;
+  border-radius: 50%;
+}
+
+.screen-header__setting .new-reddot {
+  width: 5px;
+  height: 5px;
+  background-color: tomato;
+  position: absolute;
+  top: -10px;
+  border-radius: 50%;
+}

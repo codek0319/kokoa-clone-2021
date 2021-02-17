@@ -37,15 +37,6 @@
   animation: notificationAnimation 2s ease-in-out infinite;
 }
 
-.nav_newdot {
-  width: 5px;
-  height: 5px;
-  background-color: tomato;
-  position: absolute;
-  right: -5px;
-  border-radius: 50%;
-}
-
 @keyframes appearBtnAnimatio {
   from {
     opacity: 0;

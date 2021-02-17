@@ -1,10 +1,11 @@
 /* *.css는 css에 추가하는게 좋다. HTML에 여러 줄의 링크를 만드는 건 비효율적이다. */
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap");
 @import "reset.css";
 @import "variables.css";
 
 /* components */
 @import "components/status-bar.css";
+@import "components/new-reddot.css";
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
 @import "components/user-component.css";
