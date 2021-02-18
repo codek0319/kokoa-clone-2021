@@ -13,6 +13,7 @@
 @import "components/icon-row.css";
 @import "components/alt-screen-header.css";
 @import "components/no-mobile.css";
+@import "components/keyboard.css";
 
 /* screens */
 @import "screens/login.css";
@@ -37,5 +38,5 @@ body {
 .icon-row__icon i,
 .user-component__column > .fa-comment-alt,
 .alt-header__column:last-child i {
-  font-size: 30px;
+  font-size: 25px;
 }

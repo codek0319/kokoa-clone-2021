@@ -32,8 +32,8 @@
 
 .nav_notification {
   position: absolute;
-  top: -15px;
-  right: -15px;
+  top: -12px;
+  right: -12px;
   animation: notificationAnimation 2s ease-in-out infinite;
 }
 

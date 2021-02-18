@@ -1,14 +1,14 @@
 .settings__setting {
-  padding: 20px 0;
+  padding: 15px 0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  font-size: 20px;
+  font-size: 17px;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
 .settings__setting i {
-  font-size: 25px;
+  font-size: 22px;
   color: rgba(0, 0, 0, 0.7);
   padding-right: 10px;
   height: 20px;
@@ -30,12 +30,12 @@
 .settings__setting:nth-child(3),
 .settings__setting:nth-child(13) {
   border-bottom: 1px solid rgba(0, 0, 0, 0.7);
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
 
 .settings__setting:nth-child(4),
 .settings__setting:last-child {
-  padding-top: 30px;
+  padding-top: 20px;
 }
 
 .settings__reddot {

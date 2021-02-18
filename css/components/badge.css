@@ -1,6 +1,6 @@
 .badge {
-  width: 25px;
-  height: 25px;
+  width: 22px;
+  height: 22px;
   color: white;
   display: block;
   background-color: tomato;
@@ -8,6 +8,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  font-weight: 500;
-  font-size: 15px;
+  font-weight: 400;
+  font-size: 14px;
 }

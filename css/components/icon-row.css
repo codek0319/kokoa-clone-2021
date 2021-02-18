@@ -1,6 +1,6 @@
 .icon-row-column {
   display: flex;
-  margin-bottom: 40px;
+  margin-bottom: 25px;
 }
 
 .more-screen .icon-row {
@@ -16,6 +16,7 @@
 }
 
 .icon-row__icon span {
+  font-size: 14px;
   margin-top: 10px;
   color: var(--font-color);
 }
